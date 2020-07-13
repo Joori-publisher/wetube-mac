@@ -1,3 +1,18 @@
-#WeTube
+# WeTube
 
-Cloning with Vanilla and nodeJS git
+Cloning with Vanilla and NodeJS
+
+## Pages:
+
+- [ ] Home
+- [ ] Join
+- [ ] Login
+- [x] Search
+- [ ] User Detail
+- [ ] Edit Profile
+- [ ] Change Password
+- [ ] Upload
+- [ ] Video Detail
+- [ ] Edit Video
+
+
